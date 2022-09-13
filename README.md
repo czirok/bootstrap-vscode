@@ -1,4 +1,4 @@
-# Bootstrap 5.2.1 support in Visual Studio Code
+# Edit, Customize, and Override Bootstrap with Visual Studio Code
 
 <div style="display:flex;flex-direction:row;">
   <img src="https://raw.githubusercontent.com/twbs/bootstrap/main/site/static/docs/5.2/assets/brand/bootstrap-logo.svg" width="73.14286" height="58.28571" alt="Bootstrap" title="Bootstrap">
