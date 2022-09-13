@@ -2,9 +2,11 @@
 
 ## Copy files
 
-**Only bootstrap 5.2.1 support**
+![Only bootstrap 5.2.1 support](https://user-images.githubusercontent.com/1266377/189863309-e6640879-236b-4e61-b013-c620d5d937e0.svg)
 
-Copy all files to the Bootstrap directory. **Except README.md**
+Copy all files to the Bootstrap directory.
+
+![Except README.md](https://user-images.githubusercontent.com/1266377/189863304-003607a8-c0ea-449d-b27e-38bb82153109.svg)
 
 ### Install
 
