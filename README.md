@@ -1,12 +1,10 @@
 # Bootstrap 5.2.1 support in Visual Studio Code
 
-<table>
-  <tr>
-    <td valign="top"><img src="https://raw.githubusercontent.com/twbs/bootstrap/main/site/static/docs/5.2/assets/brand/bootstrap-logo.svg" width="73.14286" height="58.28571" alt="Bootstrap" title="Bootstrap"></td>
-    <td valign="center">&</td>
-    <td valign="top"><img src="https://user-images.githubusercontent.com/1266377/189880960-bd284bfb-5b11-4167-851d-c1d462341ea1.svg" width="58.28571" height="58.28571" alt="VS Code" title="VS Code"></td>
-  </tr>
- </table>
+<div style="display:flex;flex-direction:row;">
+  <img src="https://raw.githubusercontent.com/twbs/bootstrap/main/site/static/docs/5.2/assets/brand/bootstrap-logo.svg" width="73.14286" height="58.28571" alt="Bootstrap" title="Bootstrap">
+  <img src="https://user-images.githubusercontent.com/1266377/189891857-e486b562-3e5f-4594-95a9-bb9cbccceb2c.svg" width="58.28571" height="58.28571" alt="Bootstrap" title="Bootstrap">
+  <img src="https://user-images.githubusercontent.com/1266377/189880960-bd284bfb-5b11-4167-851d-c1d462341ea1.svg" width="58.28571" height="58.28571" alt="VS Code" title="VS Code">
+</div>
 
 ## Copy files
 
