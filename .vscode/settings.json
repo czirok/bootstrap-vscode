@@ -1,0 +1,111 @@
+{
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "files.exclude": {
+    "**/.cache": true,
+    "**/.git": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "**/node_modules": true,
+    "**/js/dist": true,
+    "**/dist": true
+  },
+  "search.exclude": {
+    "**/.cache": true,
+    "**/.git": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "**/node_modules": true,
+    "**/js/dist": true,
+    "**/dist": true
+  },
+  "css.validate": false,
+  "scss.validate": false,
+  "less.validate": false,
+  "javascript.validate.enable": false,
+  "markdown.experimental.validate.enabled": false,
+
+  "editor.formatOnPaste": false,
+  "editor.formatOnSave": false,
+
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll.stylelint": true,
+    "source.fixAll.markdownlint": true,
+  },
+  "stylelint.validate": [
+    "scss"
+  ],
+  "eslint.validate": [
+    "javascript"
+  ],
+  "markdownlint.config": {
+    // Markdown rules in bootstrap
+    // https://github.com/DavidAnson/vscode-markdownlint#rules
+    "MD001": false,
+    "MD004": false,
+    "MD012": false,
+    "MD013": false,
+    "MD022": false,
+    "MD024": false,
+    "MD026": false,
+    "MD031": false,
+    "MD032": false,
+    "MD033": false,
+    "MD034": false,
+    "MD036": false,
+    "MD037": false,
+    "MD041": false,
+    "MD046": false,
+    "MD049": false,
+    "MD051": false,
+    "MD053": false
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "stylelint.vscode-stylelint",
+  },
+  "[js]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features",
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+    "editor.formatOnSave": false
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+    "editor.formatOnSave": true
+  },
+  "[yaml]": {
+    "editor.tabSize": 2,
+    "editor.formatOnType": true,
+    "editor.codeLens": true
+  },
+  "todo-tree.filtering.excludeGlobs":  [
+    "**/.cache",
+    "**/.git",
+    "**/.DS_Store",
+    "**/Thumbs.db",
+    "**/node_modules",
+    "**/js/dist",
+    "**/dist"
+  ],
+  "todo-tree.general.tags": [
+    "FIXME",
+    "fixme",
+    "TODO",
+    "todo"
+  ],
+  "yaml.format.enable": true,
+}

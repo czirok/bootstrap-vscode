@@ -1,0 +1,16 @@
+{
+	"recommendations": [
+    "yzhang.markdown-all-in-one",
+		"editorconfig.editorconfig",
+		"dbaeumer.vscode-eslint",
+		"stylelint.vscode-stylelint",
+		"davidanson.vscode-markdownlint",
+    "streetsidesoftware.code-spell-checker",
+    "gruntfuggly.todo-tree",
+    "esbenp.prettier-vscode",
+    "webben.browserslist",
+    "redhat.vscode-yaml",
+    "webben.browserslist",
+    "mrmlnc.vscode-autoprefixer"
+	]
+}

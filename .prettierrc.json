@@ -1,0 +1,14 @@
+{
+  "overrides": [
+    {
+      "excludeFiles": ["*.scss", "*.js"],
+      "files": ["*.html"],
+      "options": {
+        "parser": "go-template",
+        "singleQuote": false,
+        "printWidth": 1000,
+        "proseWrap": "preserve"
+      }
+    }
+  ]
+}
