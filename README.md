@@ -1,12 +1,20 @@
 # Bootstrap 5.2.1 support in Visual Studio Code
 
+<table>
+  <tr>
+    <td valign="top"><img src="https://raw.githubusercontent.com/twbs/bootstrap/main/site/static/docs/5.2/assets/brand/bootstrap-logo.svg" width="73.14286" height="58.28571" alt="Bootstrap" title="Bootstrap"></td>
+    <td valign="center">&</td>
+    <td valign="top"><img src="https://user-images.githubusercontent.com/1266377/189880960-bd284bfb-5b11-4167-851d-c1d462341ea1.svg" width="58.28571" height="58.28571" alt="VS Code" title="VS Code"></td>
+  </tr>
+ </table>
+
 ## Copy files
 
-![Only bootstrap 5.2.1 support](https://user-images.githubusercontent.com/1266377/189863309-e6640879-236b-4e61-b013-c620d5d937e0.svg)
+![Only bootstrap 5.2.1 support](https://user-images.githubusercontent.com/1266377/189878690-6d62aca1-73fb-476b-888f-b35d8aa61a7c.svg)
 
 Copy all files to the Bootstrap directory.
 
-![Except README.md](https://user-images.githubusercontent.com/1266377/189863304-003607a8-c0ea-449d-b27e-38bb82153109.svg)
+![Except README.md and LICENSE](https://user-images.githubusercontent.com/1266377/189878688-e6e8a0ba-3907-459a-879d-a5578f7aa0c6.svg)
 
 ### Install
 
@@ -77,3 +85,7 @@ npm run docs-serve-only-ip
   }
 }
 ```
+
+## Trademark notices
+
+Visual Studio Code, VS Code, and the Visual Studio Code icon are trademarks of Microsoft Corporation. All rights reserved.
