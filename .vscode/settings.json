@@ -88,10 +88,13 @@
     "editor.formatOnSave": true
   },
   "[yaml]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml",
     "editor.tabSize": 2,
     "editor.formatOnType": true,
     "editor.codeLens": true
   },
+  "yaml.format.enable": true,
+  "yaml.validate": true,
   "todo-tree.filtering.excludeGlobs":  [
     "**/.cache",
     "**/.git",
@@ -107,5 +110,12 @@
     "TODO",
     "todo"
   ],
-  "yaml.format.enable": true,
+  "color-highlight.languages": [
+    "yaml",
+    "scss",
+    "css"
+  ],
+  "color-highlight.markerType": "background",
+  "color-highlight.matchRgbWithNoFunction": true,
+  "color-highlight.matchWords": true
 }

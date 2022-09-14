@@ -11,6 +11,7 @@
     "webben.browserslist",
     "redhat.vscode-yaml",
     "webben.browserslist",
-    "mrmlnc.vscode-autoprefixer"
+    "mrmlnc.vscode-autoprefixer",
+    "naumovs.color-highlight"
   ]
 }
