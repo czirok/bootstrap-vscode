@@ -71,19 +71,6 @@ npm run docs-serve-ip
 npm run docs-serve-only-ip
 ```
 
-## Development example
-
-**packages.json**
-
-```json
-{
-  "scripts": {
-    "css-lint-vars": "fusv scss/ site/assets/scss/ site/assets/dev/scss/",
-    "watch-css-dev": "nodemon --watch site/assets/dev/scss/ --ext scss --exec \"npm run css-lint\""
-  }
-}
-```
-
 ## Trademark notices
 
 Visual Studio Code, VS Code, and the Visual Studio Code icon are trademarks of Microsoft Corporation. All rights reserved.
