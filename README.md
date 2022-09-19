@@ -12,7 +12,7 @@
 
 Copy all files to the Bootstrap directory.
 
-![Except README.md and LICENSE](https://user-images.githubusercontent.com/1266377/189878688-e6e8a0ba-3907-459a-879d-a5578f7aa0c6.svg)
+![Except .git, README.md and LICENSE](https://user-images.githubusercontent.com/1266377/191077083-de846731-3433-4c7d-bfd6-5c22338ee74a.svg)
 
 ### Install
 
